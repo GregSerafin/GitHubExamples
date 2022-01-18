@@ -1,1 +1,3 @@
-Hello, world! Lets get smart!
+Hello, world! Lets go!
+
+Hello there!
